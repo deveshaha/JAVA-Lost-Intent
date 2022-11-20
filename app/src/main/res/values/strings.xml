@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EBDIP_Devesh_Hanumante</string>
+    <string name="login">¡La Busqueda va a comenzar! Introduce tu nombre de usuario para encontrar el intent perdido</string>
+    <string name="hint_usrname">Introduce tu nombre de usuario</string>
+    <string name="btn_login">Empezar la búsqueda</string>
+    <string name="btn_ajatoC">atajo corto</string>
+    <string name="btn_ajatoL">Atajo Largo</string>
+    <string name="btn_act3">¡Vaya! parece que no has elegido el camino correcto, pulsame para pedir ayuda</string>
+    <string name="btn_puerta">Abre la puerta</string>
+    <string name="btn_llave">coge la llave primero</string>
+    <string name="tvAct2">Bien %1$s, ya no hay vuelta atras, ahora solo hace falta que tu valentia y tu sentido comun te ayuden a encontrar el Intent que estamos buscando.</string>
+    <string name="tvAct4">Has elegido el camino correcto %1$s, ya estås muy cerca del Intent perdido, abre la puerta para comprobarlo.</string>
+    <string name="btn_volverLlave">Volver con llave</string>
+    <string name="btn_volverSinLlave">Volver sin llave</string>
+    <string name="btn_adivino">¡Felicidades! has encontrado el intent perdido, haz click aqui para verlo</string>
+    <string name="salir">Salir del juego</string>
+</resources>
